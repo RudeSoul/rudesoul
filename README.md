@@ -11,4 +11,7 @@
 - ⚡ Fun fact: wishing to sleep like panda
 
 
+
 [![Rudesoul's github stats](https://github-readme-stats.vercel.app/api?username=rudesoul&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rudesoul&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
