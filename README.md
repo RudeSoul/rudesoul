@@ -1,5 +1,6 @@
-### WooW Checking me out 👋
+### Hi there, I'm [Anurag!](https://www.github.com/rudesoul) 👋
 
+Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not be fast learner but I believe I am good learner.
 
 - 🔭 I’m currently working on e-commerce
 - 🌱 I’m currently learning react
@@ -10,8 +11,28 @@
 - 😄 Pronouns: rude
 - ⚡ Fun fact: wishing to sleep like panda
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-[![Rudesoul's github stats](https://github-readme-stats.vercel.app/api?username=rudesoul&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudesoul)](https://github.com/anuraghazra/github-readme-stats)
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rudesoul&show_icons=true&include_all_commits=true&theme=dark" alt="Rudesoul's stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudesoul&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudesoul&repo=github-readme-stats&theme=dark" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudesoul&repo=anuraghazra.github.io&theme=dark" />
+</a>
