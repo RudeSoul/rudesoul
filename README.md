@@ -1,4 +1,5 @@
-### Hi there, I'm [Anurag!](https://www.github.com/rudesoul) 👋
+### WooW Checking me out :D, 
+### I'm [rudesoul!](https://www.github.com/rudesoul) 👋
 
 Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not be fast learner but I believe I am good learner.
 
@@ -28,11 +29,4 @@ Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not b
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudesoul&layout=compact&theme=dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudesoul&repo=github-readme-stats&theme=dark" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudesoul&repo=anuraghazra.github.io&theme=dark" />
 </a>
