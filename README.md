@@ -8,7 +8,8 @@ Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not b
 - 👯 I’m looking to collaborate on e-commerce
 - 🤔 I’m looking for help with designer
 - 💬 Ask me about frontend
-- 📫 How to reach me: prabesh7@gmail.com
+- 📫 How to reach me: [Github](https://www.github.com/rudesoul), [Facebook](https://www.facebook.com/prabeshgouli)  
+- 💻 Email me at: prabesh7@gmail.com
 - 😄 Pronouns: rude
 - ⚡ Fun fact: wishing to sleep like panda
 
@@ -16,6 +17,7 @@ Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not b
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+<code><img height="20" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
