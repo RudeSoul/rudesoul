@@ -3,9 +3,9 @@
 
 Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not be fast learner but I believe I am good learner.
 
-- 🔭 I’m currently working on Mobile Application Development
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on e-commerce
+- 🔭 I’m currently working on Audial Media (*Still on development)
+- 🌱 I’m currently learning Mobile Application Development
+- 👯 I’m looking to collaborate on - Audial Media
 - 🤔 I’m looking for help with designer
 - 💬 Ask me about frontend
 - 📫 How to reach me: [Github](https://www.github.com/rudesoul), [Facebook](https://www.facebook.com/prabeshgouli)  
