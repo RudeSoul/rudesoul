@@ -3,7 +3,7 @@
 
 Hi, I'm Prabesh Gouli, self taught front end developer from Nepal. I might not be fast learner but I believe I am good learner.
 
-- 🔭 I’m currently working on Audial Media (*Still on development)
+- 🔭 I’m currently working on DIVIDE MY BILL (*Beta Available SOON)
 - 🌱 I’m currently learning Mobile Application Development
 - 👯 I’m looking to collaborate on - Audial Media
 - 🤔 I’m looking for help with designer
